@@ -18,7 +18,7 @@
 <manifest
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:pluto="http://www.w3.org/2001/pluto.html"  
-    package="com.TUN_SD.theme.JellyBlack_Free"
+    package="com.TUN_SD.theme.JellyBlackFree"
     android:versionCode="10"
     android:versionName="3.9"
     android:hasCode="false" >
@@ -27,12 +27,12 @@
         android:minSdkVersion="14"
         android:targetSdkVersion="17" />
 
-    <application name="JellyBlack_Free" android:hasCode="false" android:icon="@drawable/ic_launcher" android:label="JellyBlack_Free">
+    <application name="JellyBlackFree" android:hasCode="false" android:icon="@drawable/ic_launcher" android:label="JellyBlackFree">
     </application>
 
 
     <theme 
-        pluto:themeId="JellyBlack_Free"
+        pluto:themeId="JellyBlackFree"
         pluto:styleId="@style/Black"
         pluto:name="@string/theme_name"
         pluto:preview="@drawable/preview"
