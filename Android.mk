@@ -3,7 +3,7 @@ include $(CLEAR_VARS)
 
 LOCAL_MODULE_TAGS := optional
 
-LOCAL_PACKAGE_NAME := JellyBlack_Free
+LOCAL_PACKAGE_NAME := JellyBlackFree
 
 LOCAL_AAPT_FLAGS := -c hdpi,xhdpi -x 10
 
