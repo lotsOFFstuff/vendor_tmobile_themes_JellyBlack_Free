@@ -20,7 +20,7 @@
     xmlns:pluto="http://www.w3.org/2001/pluto.html"  
     package="com.TUN_SD.theme.JellyBlackFree"
     android:versionCode="11"
-    android:versionName="4.1"
+    android:versionName="4.0"
     android:hasCode="false" >
 
 <uses-sdk
