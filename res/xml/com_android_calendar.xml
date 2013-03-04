@@ -74,3 +74,4 @@
 	<item name="style/CalendarTheme.WithActionBar">@style/CalendarTheme.WithActionBar</item>
 	<item name="style/EditEvent_Layout">@style/EditEvent_Layout</item>
 </resource-redirections>
+
