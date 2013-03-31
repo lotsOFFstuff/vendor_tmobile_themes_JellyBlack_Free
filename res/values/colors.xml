@@ -70,7 +70,7 @@
 	<color name="transparent">#00000000</color>
 	<color name="black">#ff000000</color>
 	<!-- clock -->
-	<color name="alarm_selected_color">#aa33B5E5</color>
+	<color name="alarm_selected_color">#5affffff</color>
 	<color name="blackish">#ff000000</color>
 	<color name="blackish_trans">#ff000000</color>
 	<!-- browser -->
@@ -127,7 +127,7 @@
 	<color name="con_photo_backdrop">@color/theme_primary</color>
 	<color name="con_photo_container">@color/theme_secondary_disabled</color>
 	<color name="con_social_widget_bg">@color/theme_primary_trans</color>
-	<color name="con_contact_detail_fragment">@color/theme_primary_trans</color>
+	<color name="con_contact_detail_fragment">@color/theme_primary</color>
 	
 	<color name="theme_primary">#ff000000</color>
 	<color name="theme_secondary">#ffffffff</color>
